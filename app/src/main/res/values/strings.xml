@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My GitHub User</string>
+    <string name="hint_search">Search</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="repository">%d Repository</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="git_hub" translatable="false">GitHub</string>
+    <string name="github_user_splashscreen" translatable="false">user</string>
+    <string name="detail_fullname">Detail Fullname</string>
+    <string name="detail_company">Detail Company</string>
+    <string name="detail_location">Detail Location</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="settings_reminder">Reminder</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_on">ON</string>
+    <string name="settings_off">OFF</string>
+    <string name="favorite_user_list">Favorite User List</string>
+    <string name="search_picture_caption">You can search GitHub User</string>
+</resources>

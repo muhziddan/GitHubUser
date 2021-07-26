@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My GitHub User</string>
+    <string name="hint_search">Cari</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="repository">%d Repositori</string>
+    <string name="followers">%d Pengikut</string>
+    <string name="following">%d Mengikuti</string>
+    <string name="detail_fullname">Detail Nama Lengkap</string>
+    <string name="detail_company">Detail Perusahaan</string>
+    <string name="detail_location">Detail Lokasi</string>
+    <string name="favorite_title">Favorit</string>
+    <string name="settings_reminder">Pengingat</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="settings_on">Nyala</string>
+    <string name="settings_off">Mati</string>
+    <string name="favorite_user_list">Daftar Pengguna Favorit</string>
+    <string name="search_picture_caption">Kamu bisa mencari pengguna GitHub</string>
+</resources>
